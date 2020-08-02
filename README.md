@@ -18,7 +18,7 @@
        <input type="checkbox"id="check">
       <label for="check" class="checkbtn"></label>
        <label class="logo"> SIddheshJ</label> 
-    <i class="fa fa-bar"> </i>
+    <i class="fa fa-bars"> </i>
     
    <ul>
       
