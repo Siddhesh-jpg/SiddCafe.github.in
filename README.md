@@ -1,25 +1,24 @@
 
-
 <html>
   <head>
-    <link rel="stylesheet"  href="style.css">
+    <link rel="stylesheet"  href="index.css">
     <link rel="stylesheet"  href="bootstrap.css">
     <link rel="stylesheet"  href="bootstrap.min.css">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   
   </head>
 <body>
   
     <nav>
- 
+      
        <input type="checkbox" id="check">
       <label for="check" class="checkbtn"></label>
-       <label class="logo"> SIddheshJ</label> 
+      
     <i class="fa fa-bars"> </i>
-    
+ <label class="logo"> SIddheshJ</label> 
    <ul>
       
     <li><a class="active" href="#">CHICKEN</a></li>
@@ -82,3 +81,20 @@
   
 </body>
 </html>
+
+
+    
+ 
+       
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
