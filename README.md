@@ -12,7 +12,7 @@
   
     <nav>
       
-       <id=" check">
+       <j id=" check">
       <label for="check" class="checkbtn"></label>
        <label class="logo"> SIddheshJ</label> 
     <i class="fas fa-bars"> </i>
@@ -32,7 +32,7 @@
       
       
       
-      </id>
+      </j>
     </nav>   
 
   <!--main content --><l>
