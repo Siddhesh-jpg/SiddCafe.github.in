@@ -1,18 +1,20 @@
 # modules-3.github.in
 
-
 <html>
   <head>
     <link rel="stylesheet"  href="style.css">
     <link rel="stylesheet"  href="bootstrap.css">
     <link rel="stylesheet"  href="bootstrap.min.css">
-    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/yourcode.js"></script>
+  
   </head>
 <body>
   
     <nav>
       
-       <id=" check">
+       <input type="checkbox" id="check">
       <label for="check" class="checkbtn"></label>
        <label class="logo"> SIddheshJ</label> 
     <i class="fas fa-bars"> </i>
@@ -32,7 +34,7 @@
       
       
       
-      </id>
+      
     </nav>   
 
   <!--main content --><l>
@@ -79,3 +81,29 @@
   
 </body>
 </html>
+
+     
+        
+        
+        
+        
+      
+   
+   
+   
+ 
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
