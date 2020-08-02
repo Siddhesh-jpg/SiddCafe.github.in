@@ -6,7 +6,7 @@
     <link rel="stylesheet"  href="style.css">
     <link rel="stylesheet"  href="bootstrap.css">
     <link rel="stylesheet"  href="bootstrap.min.css">
-    
+    <script src="https://kit.fontawesome.com/yourcode.js"></script>
   </head>
 <body>
   
