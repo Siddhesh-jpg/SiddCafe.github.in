@@ -16,9 +16,9 @@
       
        <input type="checkbox" id="check">
       <label for="check" class="checkbtn"></label>
-       <label class="logo"> SIddheshJ</label> 
+       
     <i class="fas fa-bars"> </i>
-    
+    <label class="logo"> SIddheshJ</label> 
    <ul>
       
     <li><a class="active" href="#">CHICKEN</a></li>
