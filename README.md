@@ -13,8 +13,8 @@
 <body>
   
     <nav>
-   <input id="nav-toggle" type="checkbox">
-       <input type="checkbox" id="check">
+ 
+       <input type="checkbox"id="check">
       <label for="check" class="checkbtn"></label>
        <label class="logo"> SIddheshJ</label> 
     <i class="fas fa-bars"> </i>
@@ -31,11 +31,7 @@
         
         
       </ul>
-      <label for="nav-toggle" class="icon-burger">
-<div class="line"></div>
-<div class="line"></div>
-<div class="line"></div>
- </label>
+      
       
       
       
