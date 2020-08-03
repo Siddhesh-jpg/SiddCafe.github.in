@@ -1,40 +1,46 @@
 
+
 <html>
   <head>
-    <link rel="stylesheet"  href="index.css">
-    <link rel="stylesheet"  href="bootstrap.css">
-    <link rel="stylesheet"  href="bootstrap.min.css">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+    <link rel="stylesheet"  href="style.css">
+ 
+  
   </head>
 <body>
-  <nav>
-        <input id="nav-toggle" type="checkbox">
-     <div class="logo">SIDDHESHJ</div>
-   <ul class="links">   
-    <li><a href="#">CHICKEN</a></li>
-        <li><a href="#"> BEEF</a></li>
-        <li><a href="#"> VADA PAV</a></li>
-       
-     
-        
-        
-        
-        
-    </ul>
-   <label for="nav-toggle" class="icon-burger">
-  <div class="line"></div>
- <div class="line"></div>
-<div class="line"></div>
-      
-      </label>
-      
-    </nav>   
+ <h1>SIDDHESHJ</h1>
+ <div class="togglearea">
+   
+    <label for="toggle">
+    
+      <span></span>
+      <span></span>
+      <span></span>
+    
+    
+    </label>
+    
+ </div>
 
+
+<br>
+ <input type="checkbox" id="toggle">
+  
+  <div class="navbar"> 
+<br>
+  <a href="#h">CHICKEN</a>
+  <a href="#j">BEEF</a>
+  <a href="#v">VADA PAV</a>
+  
+  
+</div>
+  
+   
+<br>
   <!--main content --><l>
- 
-  <br><br><br>
+
   <center><h3>Our Menu</h3></center>
   <div id="container">
   <br><br>
@@ -93,3 +99,15 @@
   
 
 
+
+     
+        
+        
+        
+        
+    
+   
+   
+   
+ 
+  
