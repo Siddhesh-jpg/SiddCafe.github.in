@@ -6,13 +6,11 @@
     <link rel="stylesheet"  href="bootstrap.min.css">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
   
   </head>
 <body>
   <nav>
-  
+        <input id="nav-toggle" type="checkbox">
      <div class="logo">SIDDHESHJ</div>
    <ul class="links">   
     <li><a href="#">CHICKEN</a></li>
@@ -25,7 +23,10 @@
         
         
     </ul>
-      
+   <label for="nav-toggle" class="icon-burger">
+  <div class="line"></div>
+ <div class="line"></div>
+<div class="line"></div>
       
       
       
