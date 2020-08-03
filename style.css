@@ -24,10 +24,10 @@ h3{
  font-weight:bold;
  
 }
+ 
+  
+    
    
-   h1{
-     color: white;
-   }
 #si{
      background: yellow;
      
@@ -156,11 +156,7 @@ font-size:20px;
 .togglearea{
   display: flex;
 }
-h1{
-  position:absolute;
-  top:22px;
-  left:0px;
-}
+
 }
 /* navigationn bar*/
 
