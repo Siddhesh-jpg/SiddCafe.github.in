@@ -11,17 +11,11 @@
   
   </head>
 <body>
+  <nav>
   
-    <nav>
-      
-       <input type="checkbox" id="check">
-      <label for="check" class="checkbtn"></label>
-      
-    <i class="fa fa-bars"> </i>
- <label class="logo"> SIddheshJ</label> 
-   <ul>
-      
-    <li><a class="active" href="#">CHICKEN</a></li>
+     <div class="logo">SIDDHESHJ</div>
+   <ul class="links">   
+    <li><a href="#">CHICKEN</a></li>
         <li><a href="#"> BEEF</a></li>
         <li><a href="#"> VADA PAV</a></li>
        
@@ -30,7 +24,7 @@
         
         
         
-      </ul>
+    </ul>
       
       
       
