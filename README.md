@@ -9,33 +9,7 @@
  
   
   </head>
-<body><br><br><br>
- 
- <div class="togglearea">
-   
-    <label for="toggle">
-    
-      <span></span>
-      <span></span>
-      <span></span>
-    
-    
-    </label>
-    
- </div>
-
-
-<br>
- <input type="checkbox" id="toggle">
-  
-  <div class="navbar"> 
-<br>
-  <a href="#h">CHICKEN</a>
-  <a href="#j">BEEF</a>
-  <a href="#v">VADA PAV</a>
-  
-  
-</div>
+<body>
   
    
 <br>
