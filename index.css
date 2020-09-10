@@ -211,4 +211,7 @@ font-style: bold;
       .logo{
             height:60px;
             }
+      h1{
+            font-size:5px;
+            }
      }
