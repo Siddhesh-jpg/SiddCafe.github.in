@@ -209,6 +209,9 @@ font-style: bold;
     
     display:none;
     }
+      .btn{
+            padding:6px 25px;
+            }
       .moblie-icon{
             display:block;
             color:white;
