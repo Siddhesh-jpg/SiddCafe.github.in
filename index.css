@@ -204,3 +204,11 @@ font-style: bold;
   
 }
   }
+@media(max-width:359px){
+      .moblie-icon{
+            display: inline-block;
+            }
+      .logo{
+            height:60px;
+            }
+     }
