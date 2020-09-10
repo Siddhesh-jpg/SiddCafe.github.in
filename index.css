@@ -205,6 +205,10 @@ font-style: bold;
 }
   }
 @media(max-width:360px){
+        .main-nav{
+    
+    display:none;
+    }
       .moblie-icon{
             display:block;
             color:white;
@@ -233,6 +237,6 @@ font-style: bold;
             height:60px;
             }
       h1{
-            font-size:50%;
+            font-size:70%;
             }
      }
